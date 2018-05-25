@@ -1,4 +1,3 @@
-package sequencedemo;
 public class PrimeSequence implements Sequence
 {
     private int firstNumber;
