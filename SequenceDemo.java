@@ -1,4 +1,3 @@
-package sequencedemo;
 public class SequenceDemo
 {
     public static void main(String[] args)
